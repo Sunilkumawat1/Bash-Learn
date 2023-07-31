@@ -7,7 +7,7 @@ echo "Scripting is fun with @TWS"
 
 # Task  3: Variables
 variable1="Hello"
-variable2="Bash"
+variable2="Sunil"
 
 # Task  4: Using Variables
 greeting="$variable1, $variable2!"
@@ -28,4 +28,4 @@ ls *.txt
 
 
 #Make sure to provide execution permission with the following command:
-#chmod +x day1_script.sh
+#chmod +x solutions_day1_script.sh
